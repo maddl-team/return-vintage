@@ -5,7 +5,7 @@ author: Return
 post_date: 2014-11-11 09:57:15
 post_excerpt: ""
 layout: page
-permalink: http://return-vintage.com/store-2/
+permalink: http://return-vintage.com/store/
 published: true
 textfalse:
   - ""
